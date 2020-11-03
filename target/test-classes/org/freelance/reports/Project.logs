@@ -1,0 +1,175 @@
+2020-10-25 16:35:31 INFO  BasePage:68 - Browser is : : Chrome
+2020-10-25 16:40:08 INFO  BasePage:68 - Browser is : : Firefox
+2020-10-25 16:41:48 INFO  BasePage:68 - Browser is : : Firefox
+2020-10-25 16:42:33 INFO  BasePage:72 - Firefox Browser Invoked
+2020-10-25 16:42:33 INFO  BasePage:74 - Browser Maximized
+2020-10-25 16:42:54 INFO  BasePage:104 - Data Entered in Input Field By.id: user_name
+2020-10-25 16:42:56 INFO  BasePage:104 - Data Entered in Input Field By.id: user_pass
+2020-10-25 16:43:04 INFO  BasePage:117 - Clicked on ElementBy.id: login_button
+2020-11-02 15:22:33 INFO  BasePage:70 - Browser is : : Firefox
+2020-11-02 16:03:26 INFO  BasePage:75 - Browser is : : Chrome
+2020-11-02 16:04:32 INFO  BasePage:78 - Chrome Browser Invoked
+2020-11-02 16:04:34 INFO  BasePage:80 - Browser Maximized
+2020-11-02 16:12:30 INFO  BasePage:75 - Browser is : : Chrome
+2020-11-02 16:12:54 INFO  BasePage:78 - Chrome Browser Invoked
+2020-11-02 16:12:56 INFO  BasePage:80 - Browser Maximized
+2020-11-02 16:14:48 INFO  BasePage:75 - Browser is : : Chrome
+2020-11-02 16:15:00 INFO  BasePage:78 - Chrome Browser Invoked
+2020-11-02 16:15:03 INFO  BasePage:80 - Browser Maximized
+2020-11-02 16:15:22 INFO  BasePage:131 - Mouse Over done on ElementBy.id: nav-link-accountList
+2020-11-02 16:15:23 ERROR BasePage:146 - Unable to Click : : By.xpath: //div[@id='nav-signin-tooltip']//span[text()='Sign in']
+2020-11-02 16:21:52 INFO  BasePage:75 - Browser is : : Chrome
+2020-11-02 16:22:01 INFO  BasePage:78 - Chrome Browser Invoked
+2020-11-02 16:22:03 INFO  BasePage:80 - Browser Maximized
+2020-11-02 16:22:25 INFO  BasePage:131 - Mouse Over done on ElementBy.id: nav-link-accountList
+2020-11-02 16:22:30 INFO  BasePage:143 - Clicked on ElementBy.cssSelector: div#nav-flyout-ya-signin  .nav-action-inner
+2020-11-02 16:22:32 INFO  BasePage:118 - Data Entered in Input Field By.id: ap_email
+2020-11-02 16:22:35 INFO  BasePage:143 - Clicked on ElementBy.id: continue
+2020-11-02 16:22:36 INFO  BasePage:118 - Data Entered in Input Field By.id: ap_password
+2020-11-02 16:22:49 INFO  BasePage:143 - Clicked on ElementBy.id: signInSubmit
+2020-11-02 16:22:53 INFO  BasePage:143 - Clicked on ElementBy.id: nav-hamburger-menu
+2020-11-02 16:22:54 INFO  BasePage:143 - Clicked on ElementBy.xpath: //a[@class='hmenu-item']//div[text()='Computers']
+2020-11-02 16:27:18 INFO  BasePage:75 - Browser is : : Chrome
+2020-11-02 16:27:26 INFO  BasePage:78 - Chrome Browser Invoked
+2020-11-02 16:27:28 INFO  BasePage:80 - Browser Maximized
+2020-11-02 16:27:49 INFO  BasePage:131 - Mouse Over done on ElementBy.id: nav-link-accountList
+2020-11-02 16:28:05 INFO  BasePage:143 - Clicked on ElementBy.cssSelector: div#nav-flyout-ya-signin  .nav-action-inner
+2020-11-02 16:28:06 INFO  BasePage:118 - Data Entered in Input Field By.id: ap_email
+2020-11-02 16:28:10 INFO  BasePage:143 - Clicked on ElementBy.id: continue
+2020-11-02 16:28:11 INFO  BasePage:118 - Data Entered in Input Field By.id: ap_password
+2020-11-02 16:28:16 INFO  BasePage:143 - Clicked on ElementBy.id: signInSubmit
+2020-11-02 16:42:01 INFO  BasePage:79 - Browser is : : Chrome
+2020-11-02 16:42:08 INFO  BasePage:82 - Chrome Browser Invoked
+2020-11-02 16:42:10 INFO  BasePage:84 - Browser Maximized
+2020-11-02 16:42:21 INFO  BasePage:128 - Mouse Over done on ElementBy.id: nav-link-accountList
+2020-11-02 16:42:24 INFO  BasePage:141 - Clicked on ElementBy.cssSelector: div#nav-flyout-ya-signin  .nav-action-inner
+2020-11-02 16:42:26 INFO  BasePage:114 - Data Entered in Input Field By.id: ap_email
+2020-11-02 16:42:29 INFO  BasePage:141 - Clicked on ElementBy.id: continue
+2020-11-02 16:42:29 INFO  BasePage:114 - Data Entered in Input Field By.id: ap_password
+2020-11-02 16:42:30 INFO  BasePage:141 - Clicked on ElementBy.id: signInSubmit
+2020-11-02 16:44:17 INFO  BasePage:79 - Browser is : : Chrome
+2020-11-02 16:44:23 INFO  BasePage:82 - Chrome Browser Invoked
+2020-11-02 16:44:25 INFO  BasePage:84 - Browser Maximized
+2020-11-02 16:44:42 INFO  BasePage:128 - Mouse Over done on ElementBy.id: nav-link-accountList
+2020-11-02 16:44:47 INFO  BasePage:141 - Clicked on ElementBy.cssSelector: div#nav-flyout-ya-signin  .nav-action-inner
+2020-11-02 16:44:49 INFO  BasePage:114 - Data Entered in Input Field By.id: ap_email
+2020-11-02 16:44:52 INFO  BasePage:141 - Clicked on ElementBy.id: continue
+2020-11-02 16:44:53 INFO  BasePage:114 - Data Entered in Input Field By.id: ap_password
+2020-11-02 16:44:53 INFO  BasePage:141 - Clicked on ElementBy.id: signInSubmit
+2020-11-02 16:45:25 INFO  BasePage:141 - Clicked on ElementBy.id: nav-hamburger-menu
+2020-11-02 16:45:27 INFO  BasePage:141 - Clicked on ElementBy.xpath: //a[@class='hmenu-item']//div[text()='Computers']
+2020-11-02 16:47:44 INFO  BasePage:79 - Browser is : : Chrome
+2020-11-02 16:47:52 INFO  BasePage:82 - Chrome Browser Invoked
+2020-11-02 16:47:54 INFO  BasePage:84 - Browser Maximized
+2020-11-02 16:48:07 INFO  BasePage:128 - Mouse Over done on ElementBy.id: nav-link-accountList
+2020-11-02 16:48:09 INFO  BasePage:141 - Clicked on ElementBy.cssSelector: div#nav-flyout-ya-signin  .nav-action-inner
+2020-11-02 16:48:13 INFO  BasePage:114 - Data Entered in Input Field By.id: ap_email
+2020-11-02 16:48:16 INFO  BasePage:141 - Clicked on ElementBy.id: continue
+2020-11-02 16:48:17 INFO  BasePage:114 - Data Entered in Input Field By.id: ap_password
+2020-11-02 16:48:18 INFO  BasePage:141 - Clicked on ElementBy.id: signInSubmit
+2020-11-02 16:48:27 INFO  BasePage:141 - Clicked on ElementBy.id: nav-hamburger-menu
+2020-11-02 16:48:27 INFO  BasePage:141 - Clicked on ElementBy.xpath: //a[@class='hmenu-item']//div[text()='Electronics']
+2020-11-02 16:48:31 INFO  BasePage:141 - Clicked on ElementBy.linkText: Headphones
+2020-11-02 16:48:38 ERROR BasePage:144 - Unable to Click : : By.xpath: //span[@class='a-list-item']//span[text()='4 Stars & Up']
+2020-11-02 16:48:45 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[@class='a-list-item']//span[text()='Sony']
+2020-11-02 16:48:47 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[@class='a-list-item']//span[text()='$100 to $200']
+2020-11-02 16:48:51 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[@class='a-list-item']//span[text()='Amazon.com']
+2020-11-02 16:48:54 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[contains(text(),'Sony MDR-XB950B1/B')]
+2020-11-02 16:49:13 INFO  BasePage:141 - Clicked on ElementBy.id: nav-hamburger-menu
+2020-11-02 16:49:14 INFO  BasePage:141 - Clicked on ElementBy.xpath: //a[@class='hmenu-item']//div[text()='Computers']
+2020-11-02 17:14:00 INFO  BasePage:79 - Browser is : : Chrome
+2020-11-02 17:14:13 INFO  BasePage:82 - Chrome Browser Invoked
+2020-11-02 17:14:15 INFO  BasePage:84 - Browser Maximized
+2020-11-02 17:14:29 INFO  BasePage:128 - Mouse Over done on ElementBy.id: nav-link-accountList
+2020-11-02 17:14:33 INFO  BasePage:141 - Clicked on ElementBy.cssSelector: div#nav-flyout-ya-signin  .nav-action-inner
+2020-11-02 17:14:34 INFO  BasePage:114 - Data Entered in Input Field By.id: ap_email
+2020-11-02 17:14:37 INFO  BasePage:141 - Clicked on ElementBy.id: continue
+2020-11-02 17:14:37 INFO  BasePage:114 - Data Entered in Input Field By.id: ap_password
+2020-11-02 17:14:38 INFO  BasePage:141 - Clicked on ElementBy.id: signInSubmit
+2020-11-02 17:15:12 INFO  BasePage:141 - Clicked on ElementBy.id: nav-hamburger-menu
+2020-11-02 17:15:14 INFO  BasePage:141 - Clicked on ElementBy.xpath: //a[@class='hmenu-item']//div[text()='Electronics']
+2020-11-02 17:15:17 INFO  BasePage:141 - Clicked on ElementBy.linkText: Headphones
+2020-11-02 17:15:20 ERROR BasePage:144 - Unable to Click : : By.xpath: //span[@class='a-list-item']//span[text()='4 Stars & Up']
+2020-11-02 17:15:21 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[@class='a-list-item']//span[text()='Sony']
+2020-11-02 17:15:25 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[@class='a-list-item']//span[text()='$100 to $200']
+2020-11-02 17:15:28 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[@class='a-list-item']//span[text()='Amazon.com']
+2020-11-02 17:15:36 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[contains(text(),'Sony MDR-XB950B1/B')]
+2020-11-02 17:15:45 INFO  BasePage:141 - Clicked on ElementBy.id: add-to-cart-button
+2020-11-02 17:16:17 INFO  BasePage:141 - Clicked on ElementBy.id: nav-hamburger-menu
+2020-11-02 17:16:19 INFO  BasePage:141 - Clicked on ElementBy.xpath: //a[@class='hmenu-item']//div[text()='Computers']
+2020-11-02 17:16:25 INFO  BasePage:141 - Clicked on ElementBy.linkText: Computers & Tablets
+2020-11-02 17:16:25 ERROR BasePage:144 - Unable to Click : : By.xpath: //span[@class='a-list-item']//span[text()='4 Stars & Up']
+2020-11-02 17:16:31 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[@class='a-list-item']//span[text()='SAMSUNG']
+2020-11-02 21:29:22 INFO  BasePage:79 - Browser is : : Chrome
+2020-11-02 21:29:45 INFO  BasePage:82 - Chrome Browser Invoked
+2020-11-02 21:29:48 INFO  BasePage:84 - Browser Maximized
+2020-11-02 21:30:27 INFO  BasePage:128 - Mouse Over done on ElementBy.id: nav-link-accountList
+2020-11-02 21:30:36 INFO  BasePage:141 - Clicked on ElementBy.cssSelector: div#nav-flyout-ya-signin  .nav-action-inner
+2020-11-02 21:30:38 INFO  BasePage:114 - Data Entered in Input Field By.id: ap_email
+2020-11-02 21:30:40 INFO  BasePage:141 - Clicked on ElementBy.id: continue
+2020-11-02 21:30:41 INFO  BasePage:114 - Data Entered in Input Field By.id: ap_password
+2020-11-02 21:30:42 INFO  BasePage:141 - Clicked on ElementBy.id: signInSubmit
+2020-11-02 21:31:31 INFO  BasePage:141 - Clicked on ElementBy.id: nav-hamburger-menu
+2020-11-02 21:31:32 INFO  BasePage:141 - Clicked on ElementBy.xpath: //a[@class='hmenu-item']//div[text()='Computers']
+2020-11-02 21:31:36 INFO  BasePage:141 - Clicked on ElementBy.linkText: Computers & Tablets
+2020-11-02 21:31:41 ERROR BasePage:144 - Unable to Click : : By.xpath: //span[@class='a-list-item']//span[text()='4 Stars & Up']
+2020-11-02 21:31:43 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[@class='a-list-item']//span[text()='SAMSUNG']
+2020-11-02 21:31:51 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[@class='a-list-item']//span[text()='$100 to $200']
+2020-11-02 21:31:55 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[@class='a-list-item']//span[text()='CellularStream']
+2020-11-02 21:32:54 INFO  BasePage:79 - Browser is : : Chrome
+2020-11-02 21:33:03 INFO  BasePage:82 - Chrome Browser Invoked
+2020-11-02 21:33:06 INFO  BasePage:84 - Browser Maximized
+2020-11-02 21:33:29 INFO  BasePage:128 - Mouse Over done on ElementBy.id: nav-link-accountList
+2020-11-02 21:33:33 INFO  BasePage:141 - Clicked on ElementBy.cssSelector: div#nav-flyout-ya-signin  .nav-action-inner
+2020-11-02 21:33:35 INFO  BasePage:114 - Data Entered in Input Field By.id: ap_email
+2020-11-02 21:33:37 INFO  BasePage:141 - Clicked on ElementBy.id: continue
+2020-11-02 21:33:37 INFO  BasePage:114 - Data Entered in Input Field By.id: ap_password
+2020-11-02 21:33:38 INFO  BasePage:141 - Clicked on ElementBy.id: signInSubmit
+2020-11-02 21:34:11 INFO  BasePage:141 - Clicked on ElementBy.id: nav-hamburger-menu
+2020-11-02 21:34:13 INFO  BasePage:141 - Clicked on ElementBy.xpath: //a[@class='hmenu-item']//div[text()='Electronics']
+2020-11-02 21:34:18 INFO  BasePage:141 - Clicked on ElementBy.linkText: Headphones
+2020-11-02 21:34:23 ERROR BasePage:144 - Unable to Click : : By.xpath: //span[@class='a-list-item']//span[text()='4 Stars & Up']
+2020-11-02 21:34:24 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[@class='a-list-item']//span[text()='Sony']
+2020-11-02 21:34:27 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[@class='a-list-item']//span[text()='$100 to $200']
+2020-11-02 21:34:29 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[@class='a-list-item']//span[text()='Amazon.com']
+2020-11-02 21:34:46 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[contains(text(),'Sony MDR-XB950B1/B')]
+2020-11-02 21:34:48 INFO  BasePage:141 - Clicked on ElementBy.id: add-to-cart-button
+2020-11-02 21:45:33 INFO  BasePage:79 - Browser is : : Chrome
+2020-11-02 21:45:59 INFO  BasePage:82 - Chrome Browser Invoked
+2020-11-02 21:46:02 INFO  BasePage:84 - Browser Maximized
+2020-11-02 21:46:30 INFO  BasePage:128 - Mouse Over done on ElementBy.id: nav-link-accountList
+2020-11-02 21:46:39 INFO  BasePage:141 - Clicked on ElementBy.cssSelector: div#nav-flyout-ya-signin  .nav-action-inner
+2020-11-02 21:46:44 INFO  BasePage:114 - Data Entered in Input Field By.id: ap_email
+2020-11-02 21:46:48 INFO  BasePage:141 - Clicked on ElementBy.id: continue
+2020-11-02 21:46:50 INFO  BasePage:114 - Data Entered in Input Field By.id: ap_password
+2020-11-02 21:46:51 INFO  BasePage:141 - Clicked on ElementBy.id: signInSubmit
+2020-11-02 21:47:29 INFO  BasePage:141 - Clicked on ElementBy.id: nav-hamburger-menu
+2020-11-02 21:47:31 INFO  BasePage:141 - Clicked on ElementBy.xpath: //a[@class='hmenu-item']//div[text()='Electronics']
+2020-11-02 21:47:36 INFO  BasePage:141 - Clicked on ElementBy.linkText: Headphones
+2020-11-02 21:47:45 ERROR BasePage:144 - Unable to Click : : By.xpath: //span[@class='a-list-item']//span[text()='4 Stars & Up']
+2020-11-02 21:47:57 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[@class='a-list-item']//span[text()='Sony']
+2020-11-02 21:48:05 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[@class='a-list-item']//span[text()='$100 to $200']
+2020-11-02 21:48:16 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[@class='a-list-item']//span[text()='Amazon.com']
+2020-11-02 21:48:41 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[contains(text(),'Sony MDR-XB950B1/B')]
+2020-11-02 21:48:50 INFO  BasePage:141 - Clicked on ElementBy.id: add-to-cart-button
+2020-11-02 22:02:14 INFO  BasePage:79 - Browser is : : Chrome
+2020-11-02 22:02:30 INFO  BasePage:82 - Chrome Browser Invoked
+2020-11-02 22:02:33 INFO  BasePage:84 - Browser Maximized
+2020-11-02 22:02:59 INFO  BasePage:128 - Mouse Over done on ElementBy.id: nav-link-accountList
+2020-11-02 22:03:05 INFO  BasePage:141 - Clicked on ElementBy.cssSelector: div#nav-flyout-ya-signin  .nav-action-inner
+2020-11-02 22:03:09 INFO  BasePage:114 - Data Entered in Input Field By.id: ap_email
+2020-11-02 22:03:11 INFO  BasePage:141 - Clicked on ElementBy.id: continue
+2020-11-02 22:03:12 INFO  BasePage:114 - Data Entered in Input Field By.id: ap_password
+2020-11-02 22:03:13 INFO  BasePage:141 - Clicked on ElementBy.id: signInSubmit
+2020-11-02 22:03:53 INFO  BasePage:141 - Clicked on ElementBy.id: nav-hamburger-menu
+2020-11-02 22:03:53 INFO  BasePage:141 - Clicked on ElementBy.xpath: //a[@class='hmenu-item']//div[text()='Electronics']
+2020-11-02 22:03:57 INFO  BasePage:141 - Clicked on ElementBy.linkText: Headphones
+2020-11-02 22:04:01 ERROR BasePage:144 - Unable to Click : : By.xpath: //span[@class='a-list-item']//span[text()='4 Stars & Up']
+2020-11-02 22:04:04 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[@class='a-list-item']//span[text()='Sony']
+2020-11-02 22:04:08 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[@class='a-list-item']//span[text()='$100 to $200']
+2020-11-02 22:04:10 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[@class='a-list-item']//span[text()='Amazon.com']
+2020-11-02 22:04:21 INFO  BasePage:141 - Clicked on ElementBy.xpath: //span[contains(text(),'Sony MDR-XB950B1/B')]
+2020-11-02 22:04:27 INFO  BasePage:141 - Clicked on ElementBy.id: add-to-cart-button
+2020-11-02 22:25:12 INFO  BasePage:79 - Browser is : : Chrome
+2020-11-02 22:25:23 INFO  BasePage:82 - Chrome Browser Invoked
+2020-11-02 22:25:26 INFO  BasePage:84 - Browser Maximized
